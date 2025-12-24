@@ -21,7 +21,12 @@
 </p>
 
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=asis027&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asis027&label=PROFILE%20VIEWS&color=ff00ff&style=plastic" />
+</p>
+
+[Profile Views](https://komarev.com/ghpvc/?username=asis027&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
