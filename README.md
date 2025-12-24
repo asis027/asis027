@@ -77,9 +77,18 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/asis027  
-- 🧑‍💻 GitHub: https://github.com/asis027  
-- ✉️ Email: ashirbad123karan@gmail.com  
+<p align="center">
+  🚀 <b><span style="color:#00FFCC;">Let’s connect and build together</span></b> 🚀
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/asis027">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/asis027">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>  
 
 ---
 
