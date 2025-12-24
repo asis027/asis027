@@ -1,11 +1,26 @@
-<div align="center" style="background:rgba(255,255,255,0.08);backdrop-filter:blur(10px);border-radius:15px;padding:20px;">
-### 👋 Hi, I'm **Ashirbad Behera**  
-🚀 AI & Machine Learning Engineer | Full-Stack AI Developer  
+<div align="center">
 
-💡 *Turning data into intelligent, scalable products*
+<!-- Animated Name -->
+<h1>
+  👋 Hi, I'm <span style="color:#00E6FF;"><b>Ashirbad Behera</b></span>
+</h1>
+
+<!-- Animated Role -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFCC&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Intelligent+%26+Scalable+Systems" />
+
+<!-- Highlighted Tagline -->
+<p>
+  💡 <b><span style="color:#FFD700;">Turning data into intelligent, scalable products</span></b>
+</p>
+
+<!-- Location Badge -->
+<p>
+  📍 <span style="background:#0e75b6;color:white;padding:6px 14px;border-radius:20px;">
+    Bhubaneswar, Odisha, India
+  </span>
+</p>
+
 </div>
-📍 Bhubaneswar, Odisha, India
-
 ![Profile Views](https://komarev.com/ghpvc/?username=asis027&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
@@ -112,17 +127,6 @@
 ### ☁️ Cloud, DevOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" />
-</p>
-## 🧠 3D Skills Showcase
-
-<p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker-Dark.svg" width="60"/>
 </p>
 
 ## 📊 GitHub Activity
