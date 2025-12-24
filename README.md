@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e44ad&height=200&section=header&text=AI%20%26%20ML%20Engineer&fontSize=40&fontColor=ffffff)
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/asis027/asis027/blob/output/github-contribution-grid-snake.svg)
 
 # Hi 👋, I'm Ashirbad Behera
 
@@ -102,5 +104,34 @@
   </a>
   <img src="https://img.shields.io/badge/Business%20Analysis-Fundamentals-green?style=for-the-badge"/>
 </p>
+
+## ⚡ Tech Stack & Development
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;Full-Stack+AI+Engineer;Computer+Vision+%7C+Deep+Learning;Building+Production-Ready+AI+Systems" />
+</p>
+
+---
+
+### 🧠 AI / ML Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=6" />
+</p>
+
+### 🌐 Full-Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js&perline=6" />
+</p>
+
+### 🗄️ Databases & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" />
+</p>
+
 
 ⭐ *Always curious. Always building.*
