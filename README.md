@@ -1,6 +1,4 @@
-## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/asis027/asis027/blob/output/github-contribution-grid-snake.svg)
 
 # Hi 👋, I'm Ashirbad Behera
 
@@ -58,14 +56,6 @@
 
 - AI-powered full-stack web app  
 - Scalable microservices & cloud deployment focus  
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,react,nodejs,express,html,css,tensorflow,docker,aws,git,github,linux,mysql,postgres,mongodb" />
-</p>
 
 ---
 
