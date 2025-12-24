@@ -1,10 +1,8 @@
 <div align="center" style="background:rgba(255,255,255,0.08);backdrop-filter:blur(10px);border-radius:15px;padding:20px;">
-
 ### 👋 Hi, I'm **Ashirbad Behera**  
 🚀 AI & Machine Learning Engineer | Full-Stack AI Developer  
 
 💡 *Turning data into intelligent, scalable products*
-
 </div>
 📍 Bhubaneswar, Odisha, India
 
@@ -59,16 +57,6 @@
 
 - AI-powered full-stack web app  
 - Scalable microservices & cloud deployment focus  
-
----
-
-## 📊 GitHub Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asis027&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asis027&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=asis027&theme=tokyonight)
 
 ---
 
@@ -146,9 +134,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asis027&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
 ⭐ *Always curious. Always building.*
