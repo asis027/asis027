@@ -1,8 +1,11 @@
+<div align="center" style="background:rgba(255,255,255,0.08);backdrop-filter:blur(10px);border-radius:15px;padding:20px;">
 
+### 👋 Hi, I'm **Ashirbad Behera**  
+🚀 AI & Machine Learning Engineer | Full-Stack AI Developer  
 
-# Hi 👋, I'm Ashirbad Behera
+💡 *Turning data into intelligent, scalable products*
 
-### 🚀 AI & Machine Learning Engineer | Full-Stack AI Developer  
+</div>
 📍 Bhubaneswar, Odisha, India
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asis027&label=Profile%20views&color=0e75b6&style=flat)
@@ -122,6 +125,30 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" />
 </p>
+## 🧠 3D Skills Showcase
 
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" width="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="60"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker-Dark.svg" width="60"/>
+</p>
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asis027&theme=tokyo-night&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asis027&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 ⭐ *Always curious. Always building.*
