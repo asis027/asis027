@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:88px; font-weight:900; line-height:1.1; text-shadow:0 0 12px rgba(255,255,255,0.6);">
+  <span style="font-size:96px; font-weight:900; line-height:1.1;">
     Welcome to my GitHub profile
   </span>
 </p>
