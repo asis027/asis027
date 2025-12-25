@@ -118,9 +118,8 @@
 ## ⚡ Tech Stack & Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;Full-Stack+AI+Engineer;Computer+Vision+%7C+Deep+Learning;Building+Production-Ready+AI+Systems" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-of-code.gif" width="600"/>
 </p>
-
 ---
 
 ### 🧠 AI / ML Development
