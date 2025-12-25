@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=56&pause=1400&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Hi,+I+am+Ashribad+Behera;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=70&pause=1400&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Hi,+I+am+Ashribad+Behera;Welcome+to+my+GitHub+profile!" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer;JavaScript+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+AI+Solutions;Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing Animation" />
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1300&color=FFFFFF&center=true&vCenter=true&width=1200&lines=%F0%9F%8E%93+B.Tech+in+Computer+Science+Engineering+(2024-2028);Biju+Patnaik+University+of+Technology,+Odisha;%F0%9F%A4%96+AI+and+Machine+Learning+Intern;Working+on+production-level+ML+pipelines+and+intelligent+systems;%F0%9F%A7%A0+Strong+foundation+in+DSA,+Machine+Learning,+Computer+Vision;Statistics+and+Mathematics;%F0%9F%94%8D+Passionate+about+real-world+AI+solutions;Building+scalable+and+explainable+ML+systems;%F0%9F%A4%9D+Open+to+Internships,+Freelance,+and+Open-Source+Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1300&color=FFFFFF&center=true&vCenter=true&width=1200&lines=%F0%9F%8E%93+B.Tech+in+Computer+Science+Engineering+(2024-2028);Biju+Patnaik+University+of+Technology,+Odisha;%F0%9F%A4%96+AI+and+Machine+Learning+Intern;Working+on+production-level+ML+pipelines+and+intelligent+systems;%F0%9F%A7%A0+Strong+foundation+in+DSA,+Machine+Learning,+Computer+Vision;Statistics+and+Mathematics;%F0%9F%94%8D+Passionate+about+real-world+AI+solutions;Building+scalable+and+explainable+ML+systems;%F0%9F%A4%9D+Open+to+Internships,+Freelance,+and+Open-Source+Collaboration" />
 </p>
 
 ---
