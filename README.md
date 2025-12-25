@@ -4,14 +4,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=AI+%26+Generative+AI+Engineer;Full-Stack+AI+Developer;Python+|+Machine+Learning+|+JavaScript;Building+Intelligent+Systems;Open+Source+Contributor" alt="Typing Animation" />
-</p>
-
-<div align="center">
-  
-  ```python
-```
-<p align="center">
   📍 <b>Bhubaneswar, Odisha, India</b>
 </p>
 <p align="center">
