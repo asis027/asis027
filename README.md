@@ -1,18 +1,6 @@
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> 
-  Hi, I'm <span style="background:linear-gradient(90deg, #FF512F, #DD2476);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</span>
-</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer+%7C+JavaScript+Enthusiast;Building+Intelligent+Systems+%7C+AI+Solutions+%7C+Web+Applications;Open+Source+Contributor+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Typing Animation" />
-</p>
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Location-Bhubaneswar,%20Odisha-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
-  </p>
-</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
