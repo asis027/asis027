@@ -1,16 +1,30 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Ashr​​ibad Behera
+  Hi, I'm <span style="background:linear-gradient(90deg, #FF512F, #DD2476);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=AI+%26+Generative+AI+Engineer;Full-Stack+AI+Developer;Python+|+Machine+Learning+|+JavaScript;Building+Intelligent+Systems;Open+Source+Contributor" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
+</p>
 
 <div align="center">
   
-  ```diff
-  + AI & GenAI Engineer
-  ! Aspiring Full-Stack AI Developer
-  @@ Python | Machine Learning | JavaScript @@
-  # Building Smart & Scalable AI Systems
-  * Turning Ideas Into Intelligent Product
+  ```python
+  class Developer:
+      def __init__(self):
+          self.name = "Ashribad Behera"
+          self.role = "AI & GenAI Engineer"
+          self.location = "Bhubaneswar, Odisha, India"
+          self.skills = ["Python", "Machine Learning", "Deep Learning", 
+                        "JavaScript", "React", "Node.js", "FastAPI"]
+          self.passion = "Building intelligent solutions"
+      
+      def code(self):
+          return "🚀 Creating something awesome.
 ```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
