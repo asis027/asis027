@@ -50,74 +50,22 @@
 ```
 
 ---
-## 💼 Professional Experience
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=💼+Professional+Experience" />
+</p>
 
-<div align="center">
-
-<div style="
-  background: rgba(10, 10, 10, 0.7);
-  border-radius: 16px;
-  padding: 30px;
-  margin: 25px 0;
-  border: 1px solid rgba(255, 107, 107, 0.2);
-  animation: pulse-glow 4s infinite alternate;
-  position: relative;
-">
-
-<div style="
-  position: absolute;
-  top: -2px;
-  left: -2px;
-  right: -2px;
-  bottom: -2px;
-  background: linear-gradient(45deg, 
-    #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, 
-    #feca57, #ff9ff3, #48dbfb, #ff6b6b);
-  background-size: 400% 400%;
-  border-radius: 18px;
-  z-index: -1;
-  animation: gradient-shift 8s ease infinite;
-  filter: blur(8px);
-  opacity: 0.4;
-"></div>
-
-### 📍 **Current Role**
-#### 🎯 AI Intern — Splashgain Technology Solutions
-**📅 Sep 2025 – Present | Remote**
-
-> *Developing innovative Generative AI & LLM-based applications*  
-> *Implementing AI-powered features for web platforms*  
-> *Working with state-of-the-art AI technologies*
-
----
-
-### 📍 **Previous Experience**
-#### 🏆 AI & Machine Learning Intern — iStudio Technologies
-**📅 Sep 2025 – Dec 2025 | Remote**
-
-> **Achievements:**  
-> ✅ Built end-to-end ML pipelines (Python, scikit-learn, TensorFlow)  
-> ✅ Improved model accuracy by **15–20%**  
-> ✅ Reduced inference time by **25%**  
-> ✅ Designed REST APIs for ML integration  
-> ✅ Collaborated on scalable AI solutions
-
-</div>
-</div>
-
-<style>
-@keyframes pulse-glow {
-  0% { box-shadow: 0 0 15px rgba(255, 107, 107, 0.1); }
-  50% { box-shadow: 0 0 25px rgba(255, 107, 107, 0.2); }
-  100% { box-shadow: 0 0 15px rgba(255, 107, 107, 0.1); }
-}
-
-@keyframes gradient-shift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+🚀 AI & Machine Learning Intern — iStudio Technologies
+📅 Sep 2025 – Dec 2025 | 🌍 Remote
+🧠 Built end-to-end Machine Learning pipelines using Python, scikit-learn, and TensorFlow
+📈 Achieved 15–20% improvement in model accuracy
+⚡ Reduced model inference time by 25%
+🔌 Designed and implemented REST APIs for ML model integration
+🤝 Collaborated with cross-functional teams to deliver scalable AI solutions
+🤖 AI Intern — Splashgain Technology Solutions
+📅 Sep 2025 – Present | 🌍 Remote
+🧩 Developing Generative AI & LLM-based applications
+🌐 Implementing AI-powered features for modern web applications
+🚀 Working on real-world AI use cases, automation, and intelligent systems
 ---
 
 ## 🎯 Project Overview
