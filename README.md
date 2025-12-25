@@ -1,10 +1,9 @@
 <div align="center">
 <h1 align="center">
   Hi 👋, I'm Ashribad Behera
-</h1>
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=600&color=FFFFFF&center=true&vCenter=true&width=90%25&lines=AI+%26+ML+Engineer+%7C+Computer+Vision+%7C+Full-Stack+AI+Developer;Turning+Data+into+Intelligent+Systems+%7C+Building+for+Scale" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=FFFFFF&center=true&vCenter=true&width=90%25&lines=✔+Text+cycles+like+scrolling;✔+No+overflow+issues;✔+Always+clean+%26+readable"
   />
 </p>
 <!-- Location Badge -->
