@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Wave">
-  Hi, I'm <strong style="background:linear-gradient(90deg, #4A00E0, #8E2DE2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Wave">
+  Hi, I'm <strong style="background:linear-gradient(180deg, #4A00E0, #8E2DE2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</strong>
 </p>
 
 <p align="center">
