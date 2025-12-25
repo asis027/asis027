@@ -35,12 +35,31 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science Engineering** (2024–2028)  
-  Biju Patnaik University of Technology, Odisha
-- 🤖 AI & Machine Learning Intern with hands-on **production ML pipelines**
-- 🧠 Strong foundation in **DSA, ML, Computer Vision & Statistics**
-- 🔍 Passionate about **building real-world AI systems**
-- 🤝 Open to **Internships, Freelance & Collaboration**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FFD5&center=true&vCenter=true&width=850&lines=B.Tech+Computer+Science+Student+(2024–2028);AI+%26+Machine+Learning+Intern;Building+Real-World+AI+Systems;Curious+Mind+%7C+Problem+Solver+%7C+Builder" />
+</p>
+
+
+🎓 B.Tech in Computer Science Engineering (2024–2028)
+   Biju Patnaik University of Technology, Odisha
+
+🤖 AI & Machine Learning Intern
+   Working on practical ML pipelines and real-world AI projects
+
+🧠 Strong foundation in:
+   • Data Structures & Algorithms
+   • Machine Learning
+   • Computer Vision
+   • Statistics & Mathematics
+
+🔍 Passionate about:
+   • Solving real-world problems with AI
+   • Building efficient and explainable ML systems
+
+🤝 Open to:
+   • Internships
+   • Freelance opportunities
+   • Open-source collaboration
 
 ---
 
