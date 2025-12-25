@@ -1,9 +1,11 @@
 <div align="center">
-
-<!-- Animated Name -->
-<h1>
-  👋 Hi, I'm <span style="color:#00E6FF;"><b>Ashirbad Behera</b></span>
+<h1 align="center">
+  Hi 👋, I'm Ashribad Behera
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Aspiring+Full-Stack+AI+Engineer;Python+%7C+ML+%7C+GenAI" />
+</p>
 
 <!-- Animated Role -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFCC&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Intelligent+%26+Scalable+Systems" />
