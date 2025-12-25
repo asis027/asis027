@@ -32,14 +32,9 @@
 </p>
 
 ---
-<p align="center">
-  <img src="me.png" width="160"/>
-</p>
 ## 👨‍💻 About Me
-## About Me (Neon Mode)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=FF00FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Computer+Vision+%7C+DSA+%7C+Statistics;Building+Real-World+AI+Systems;Open+to+Internships+%26+Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=800&color=00FFEA&center=true&vCenter=true&width=950&lines=⚡+AI+%26+ML+Engineer+in+the+Making;🧠+Computer+Vision+%7C+DSA+%7C+Statistics;🚀+Designing+Real-World+Intelligent+Systems;🤝+Open+to+Internships+%26+Collaboration" />
 </p>
 
 ```text
