@@ -30,8 +30,10 @@
 
 🤖 **AI & ML Intern** | Production-ready ML systems  
 Strong in **DSA • ML • CV • Statistics**  
-🚀 **Building scalable**, real-world AI solutions  
-🤝 **Open to internships**, freelance & open-source
+
+🚀 **Building scalable**,real-world AI solutions  
+
+🤝 **Open to internships**,freelance & open-source
 
 <h2 align="center">💼</h2>
 
