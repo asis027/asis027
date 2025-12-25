@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" alt="Wave" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi,+I+am+Ashribad+Behera;Welcome+to+my+GitHub+profile!" />
 </p>
-
-<h1 align="center">
-  <strong>ASHRIBAD BEHERA</strong>
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer;JavaScript+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+AI+Solutions;Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing Animation" />
 </p>
