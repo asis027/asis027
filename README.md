@@ -90,25 +90,6 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 ## 🧠 How It Works
 
 <p align="center">
-📌 This will **always show** on GitHub  
-📌 Works on **mobile + desktop**  
-📌 No HTML → no breakage  
-
----
-
-## ❌ What NOT to do (Common mistakes)
-❌ Don’t put this inside `<p align="center">`  
-❌ Don’t forget closing ```  
-❌ Don’t mix `<img>` tags above it without closing them  
-❌ Don’t nest headings inside HTML  
-
----
-
-## ✅ If you want it with animation (SAFE)
-
-## 🧠 How It Works
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=00FFD5&center=true&vCenter=true&width=900&lines=Input+Face+Images;Preprocessing+Stage;PCA+%7C+Eigenfaces;ANN+SVM+KNN+Classification;Final+Prediction" />
 </p>
 
@@ -122,8 +103,9 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 🧠 Classifier
    ↓
 ✅ Known | ❌ Unknown
-
+```
 ---
+
 
 ## ⚙️ Tech Stack
 
