@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Wave" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" alt="Wave" />
 </p>
 
-<p align="center">
-  <span style="font-size:50px; font-weight:800;">
-    Ashribad Behera
-  </span>
-</p>
+<h1 align="center">
+  <strong>ASHRIBAD BEHERA</strong>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer;JavaScript+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+AI+Solutions;Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing Animation" />
@@ -16,7 +14,6 @@
   
   ![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha-4A00E0?style=flat-square&logo=google-maps&logoColor=white)
 </div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
