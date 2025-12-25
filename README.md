@@ -59,49 +59,71 @@
 
 ## 🚀 Featured Projects
 
-# 🧠 Face Recognition System • PCA & ANN
+# 🧠 Face Recognition System using PCA & ANN
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFEA&center=true&vCenter=true&width=900&lines=Real-Time+Face+Recognition+System;PCA+%7C+ANN+%7C+Classical+Machine+Learning;Computer+Vision+with+Python+%26+OpenCV;Built+for+Learning+%26+Practical+Understanding" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00FFD5&center=true&vCenter=true&width=900&lines=Classical+Face+Recognition+System;PCA+%7C+ANN+%7C+Machine+Learning;Computer+Vision+with+Python+%26+OpenCV;Efficient+%7C+Explainable+%7C+Lightweight+ML" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-Classical%20ML-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ Live Project Experience
+## 🎯 Project Overview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620"/>
 </p>
 
-> ⚡ **A lightweight, explainable face recognition system**  
-> Built using **Principal Component Analysis (PCA)** and **Artificial Neural Networks (ANN)** — focusing on **how machines “see” faces**, not just predictions.
+This project presents a **classical face recognition system** built using  
+**Principal Component Analysis (PCA)** for dimensionality reduction and  
+**Artificial Neural Networks (ANN)** for face classification.
+
+Instead of relying on heavy deep learning models, the system emphasizes  
+⚡ **efficiency**,  
+🧠 **explainability**, and  
+🪶 **lightweight machine learning techniques**,  
+
+making it highly suitable for **academic learning, portfolio demonstration, and research-based experimentation**.
 
 ---
 
-## 🧩 Intelligent Workflow (Animated View)
+## 🧠 How It Works
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="620"/>
 </p>
 
-```text
-📷 Face Image
-   ↓
-⚙️ Preprocessing
-   ↓
-📉 PCA → Eigenfaces
-   ↓
-🧠 ANN / SVM / KNN
-   ↓
-✅ Identity or ❌ Unknon
+⬆️ This will **100% display correctly** on GitHub.
+
 ---
 
+## ✅ Why This Happens
+- GitHub README uses **Markdown**
+- Plain text ≠ code
+- Without ``` ``` fences:
+  - emojis
+  - arrows
+  - spacing  
+  break or collapse
+---
+
+📷 Input Face Image
+↓
+⚙️ Image Preprocessing
+(Grayscale • Resize • Normalize)
+↓
+📉 PCA Feature Extraction
+(Eigenfaces)
+↓
+🧠 Classification
+(ANN / SVM / KNN)
+↓
+✅ Known Identity | ❌ Unknown Face
 ## 🎯 Project Overview
 
 <p align="center">
