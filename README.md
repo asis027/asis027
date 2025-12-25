@@ -1,9 +1,7 @@
 <p align="center">
-  <span style="font-size:72px; font-weight:900;"></span><br/>
-  <span style="font-size:36px; font-weight:600;">
+  <span style="font-size:50px; font-weight:1200;">
     Welcome to my GitHub profile
   </span>
-</p>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=I+Am+Python+Developer+%7C+Machine+Learning+Engineer;JavaScript+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+AI+Solutions;Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing Animation" />
