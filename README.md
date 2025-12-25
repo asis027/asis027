@@ -117,16 +117,7 @@
 
 ## ⚡ Tech Stack & Development
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</p>
-
-<h2 align="center">⚙️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,opencv,sklearn,aws,git,github&theme=dark" />
-</p>
-
+⚙️ Tech Stack
 
 ### 🧠 AI / ML Development
 <p align="left">
@@ -181,13 +172,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=asis027&theme=onedark&row=1&column=6" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOURMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
