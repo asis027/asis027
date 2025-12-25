@@ -243,21 +243,8 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=LinkedIn+Activity;Sharing+AI,+ML+and+Tech+Updates;Connecting+with+Professionals+Worldwide" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20&section=footer"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=LinkedIn+Activity;Sharing+AI,+ML+and+Tech+Insights;Connecting+with+Professionals+Worldwide" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:4FACFE,100:00F2FE&height=120&section=footer"/>
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css,nodejs,react,sql,mongodb&perline=5" />
-</p>
-
-<p align="center">
-  🌊 <b>Floating Through Code • Building Intelligent Systems</b> 🌊
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0A66C2&height=80&section=footer"/>
