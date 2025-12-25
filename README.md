@@ -118,7 +118,7 @@
 ## ⚡ Tech Stack & Development
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-of-code.gif" width="600"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
 ### 🧠 AI / ML Development
