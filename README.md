@@ -22,6 +22,7 @@
 <p align="center" style="color:#FFFFFF; font-weight:600;">
   📍 Bhubaneswar, Odisha, India
 </p>
+
 </div>
 
 <p align="center">
