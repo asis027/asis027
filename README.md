@@ -1,18 +1,16 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58A6FF">Ashribad Behera</span>
+</h1>
 
-<h1>👋 Hi, I'm Ashribad Behera</h1>
-
-<p>
+<p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=80%25&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Enthusiast;Aspiring+Full-Stack+AI+Developer" 
-    alt="Animated role text"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%26+GenAI+Engineer;Aspiring+Full-Stack+AI+Developer;Python+%7C+Machine+Learning+%7C+JavaScript;Building+Smart+%26+Scalable+AI+Systems;Turning+Ideas+Into+Intelligent+Products"
+    alt="Typing SVG"
   />
 </p>
-<!-- Location Badge -->
-<p>
-  📍 <span style="background:#0e75b6;color:white;padding:6px 14px;border-radius:20px;">
-    Bhubaneswar, Odisha, India
-  </span>
+
+<p align="center">
+  📍 Bhubaneswar, Odisha, India
 </p>
 
 </div>
