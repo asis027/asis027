@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Aspiring+Full-Stack+AI+Engineer;Python+%7C+ML+%7C+GenAI" />
 </p>
+<p align="center">
+  <img src="demo.gif" width="650"/>
+</p>
 
 <!-- Animated Role -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFCC&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Intelligent+%26+Scalable+Systems" />
@@ -250,4 +253,10 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 
-⭐ *Always curious. Always building.*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=E6F7FF&center=true&vCenter=true&width=700&lines=❄️+Always+curious.+Always+building." />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
+</p>
