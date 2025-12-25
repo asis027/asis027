@@ -23,16 +23,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Computer+Vision+and+Data+Science+Enthusiast;Turning+Ideas+into+Scalable+AI+Solutions;Open+for+Learning+and+Opportunities" />
 </p>
-<p align="center">
-  🎓 <strong>B.Tech in Computer Science Engineering (2024–2028)</strong><br/>
-  <strong>Biju Patnaik University of Technology, Odisha</strong>
-</p>
+🎓 **B.Tech CSE (2024–2028)**  
+_Biju Patnaik University of Technology, Odisha_
 
-<p align="center">
-  🤖 <strong>AI & Machine Learning Intern</strong> focused on <strong>production-ready ML systems</strong>, with strong foundations in <strong>DSA, Machine Learning, Computer Vision, and Statistics</strong>.<br/>
-  Passionate about <strong>scalable, real-world AI solutions</strong>.<br/>
-  Open to <strong>internships, freelance, and open-source collaboration</strong>.
-</p>
+🤖 **AI & ML Intern** | Production-ready ML systems  
+Strong in **DSA • ML • CV • Statistics**  
+🚀 Building scalable, real-world AI solutions  
+🤝 Open to internships, freelance & open-source
 
 <h2 align="center">💼</h2>
 
