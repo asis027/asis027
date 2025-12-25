@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Location-Bhubaneswar,%20Odisha-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
   </p>
 </div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
