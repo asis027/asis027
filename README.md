@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
   Hi, I'm <span style="background:linear-gradient(90deg, #FF512F, #DD2476);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</span>
@@ -50,8 +51,10 @@
 ```
 
 ---
+<h2 align="center">💼</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=💼+Professional+Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Professional+Experience" />
 </p>
 
 ---
