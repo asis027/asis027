@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  Hi, I'm <span style="background:linear-gradient(90deg, #FF512F, #DD2476);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</span>
+  Hi, I'm <span style="background:linear-gradient(90deg, #FF512F, #DD2476);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashr​ibad Behera</span>
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
   ```python
   class Developer:
       def __init__(self):
-          self.name = "Ashribad Behera"
+          self.name = "Ashr​ibad Behera"
           self.role = "AI & GenAI Engineer"
           self.location = "Bhubaneswar, Odisha, India"
           self.skills = ["Python", "Machine Learning", "Deep Learning", 
@@ -24,7 +24,7 @@
           self.passion = "Building intelligent solutions"
       
       def code(self):
-          return "🚀 Creating something awesome.
+          return "🚀 Creating something awesome!"
 ```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
