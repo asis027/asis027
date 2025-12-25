@@ -240,7 +240,15 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=LinkedIn+Activity;Sharing+AI,+ML+and+Tech+Updates;Connecting+with+Professionals+Worldwide" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashribad%20Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
