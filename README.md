@@ -157,12 +157,6 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 
 ---
 
-
-- AI-powered full-stack web app  
-- Scalable microservices & cloud deployment focus  
-
----
-
 <h2 align="center">📫</h2>
 
 <p align="center">
