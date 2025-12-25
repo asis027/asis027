@@ -51,21 +51,28 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=💼+Professional+Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=💼+Professional+Experience" />
 </p>
 
-🚀 AI & Machine Learning Intern — iStudio Technologies
-📅 Sep 2025 – Dec 2025 | 🌍 Remote
-🧠 Built end-to-end Machine Learning pipelines using Python, scikit-learn, and TensorFlow
-📈 Achieved 15–20% improvement in model accuracy
-⚡ Reduced model inference time by 25%
-🔌 Designed and implemented REST APIs for ML model integration
-🤝 Collaborated with cross-functional teams to deliver scalable AI solutions
-🤖 AI Intern — Splashgain Technology Solutions
-📅 Sep 2025 – Present | 🌍 Remote
-🧩 Developing Generative AI & LLM-based applications
-🌐 Implementing AI-powered features for modern web applications
-🚀 Working on real-world AI use cases, automation, and intelligent systems
+---
+
+### 🚀 **AI & Machine Learning Intern** — 0  
+📅 **Sep 2025 – Dec 2025** | 🌍 **Remote**
+
+- 🧠 Built **end-to-end Machine Learning pipelines** using **Python, scikit-learn, and TensorFlow**
+- 📈 Achieved **15–20% improvement in model accuracy**
+- ⚡ Reduced **model inference time by 25%**
+- 🔌 Designed and implemented **REST APIs** for ML model integration
+- 🤝 Collaborated with **cross-functional teams** to deliver **scalable AI solutions**
+
+---
+
+### 🤖 **AI Intern** — 1  
+📅 **Sep 2025 – Present** | 🌍 **Remote**
+
+- 🧩 Developing **Generative AI & LLM-based applications**
+- 🌐 Implementing **AI-powered features** for modern web applications
+- 🚀 Working on **real-world AI use cases**, automation, and intelligent systems
 ---
 
 ## 🎯 Project Overview
