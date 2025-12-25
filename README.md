@@ -1,11 +1,11 @@
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
   Hi, I'm <span style="background:linear-gradient(90deg, #FF512F, #DD2476);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer+%7C+JavaScript+Enthusiast;Building+Intelligent+Systems+%7C+AI+Solutions+%7C+Web+Applications;Open+Source+Contributor+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer+%7C+JavaScript+Enthusiast;Building+Intelligent+Systems+%7C+AI+Solutions+%7C+Web+Applications;Open+Source+Contributor+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF5AF7&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Computer+Vision+and+Data+Science+Enthusiast;Turning+Ideas+into+Scalable+AI+Solutions;Open+for+Learning+and+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1200&color=FF5AF7&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Computer+Vision+and+Data+Science+Enthusiast;Turning+Ideas+into+Scalable+AI+Solutions;Open+for+Learning+and+Opportunities" />
 </p>
 
 ```text
@@ -250,7 +250,7 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asis027&theme=tokyo-night&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
 </p>
 
 
