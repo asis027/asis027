@@ -245,8 +245,12 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashribad%20Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=LinkedIn+Activity;Sharing+AI,+ML+and+Tech+Insights;Connecting+with+Professionals+Worldwide" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/asis027" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashr​​ibad%20Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
