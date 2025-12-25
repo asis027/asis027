@@ -168,7 +168,7 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 <h2 align="center">📫</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=60&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=Connect+With+Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=60&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Connect+With+Me" />
 </p>
 
 <p align="center">
@@ -189,7 +189,7 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 <h2 align="center">🏅</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=60&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=Certifications+and+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=60&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Certifications+and+Learning" />
 </p>
 
 <p align="left">
