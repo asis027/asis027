@@ -1,3 +1,36 @@
+Get App
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> 
+  Hi, I'm <span style="background:linear-gradient(90deg, #FF512F, #DD2476);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer+%7C+JavaScript+Enthusiast;Building+Intelligent+Systems+%7C+AI+Solutions+%7C+Web+Applications;Open+Source+Contributor+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Typing Animation" />
+</p>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Location-Bhubaneswar,%20Odisha-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
+  </p>
+</div>
+
+Fix this code and generate a new code white transparent thene for github md file replace
+Here's the corrected and enhanced version with a clean white-transparent theme for GitHub README:
+
+markdown
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave">
+  Hi, I'm <strong style="background:linear-gradient(90deg, #4A00E0, #8E2DE2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4A00E0&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer;JavaScript+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+AI+Solutions;Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing Animation" />
+</p>
+
+<div align="center">
+  
+  ![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha-4A00E0?style=flat-square&logo=google-maps&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Coding-8E2DE2?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
 
 <h1 align="center">
 
