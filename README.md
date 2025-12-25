@@ -59,6 +59,49 @@
 
 ## 🚀 Featured Projects
 
+# 🧠 Face Recognition System • PCA & ANN
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFEA&center=true&vCenter=true&width=900&lines=Real-Time+Face+Recognition+System;PCA+%7C+ANN+%7C+Classical+Machine+Learning;Computer+Vision+with+Python+%26+OpenCV;Built+for+Learning+%26+Practical+Understanding" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Classical%20ML-blue?style=for-the-badge" />
+</p>
+
+---
+
+## ✨ Live Project Experience
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="650"/>
+</p>
+
+> ⚡ **A lightweight, explainable face recognition system**  
+> Built using **Principal Component Analysis (PCA)** and **Artificial Neural Networks (ANN)** — focusing on **how machines “see” faces**, not just predictions.
+
+---
+
+## 🧩 Intelligent Workflow (Animated View)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="650"/>
+</p>
+
+```text
+📷 Face Image
+   ↓
+⚙️ Preprocessing
+   ↓
+📉 PCA → Eigenfaces
+   ↓
+🧠 ANN / SVM / KNN
+   ↓
+✅ Identity or ❌ Unknown
+
+
 # 🧠 Face Recognition System using PCA & ANN
 
 <p align="center">
