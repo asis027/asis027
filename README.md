@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  ![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha-4A00E0?style=flat-square&logo=google-maps&logoColor=white)
+  ![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha-4A00E0?style=flat-square&logo=google-maps&logoColor=red)
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
@@ -240,9 +240,7 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asis027&theme=tokyonight" />
-</p>
+
 
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
