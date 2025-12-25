@@ -56,7 +56,7 @@
 
 ---
 
-### 🚀 **AI & Machine Learning Intern** — 0  
+### 🚀 **AI & Machine Learning Intern** — iStudio Technologies  
 📅 **Sep 2025 – Dec 2025** | 🌍 **Remote**
 
 - 🧠 Built **end-to-end Machine Learning pipelines** using **Python, scikit-learn, and TensorFlow**
@@ -67,7 +67,7 @@
 
 ---
 
-### 🤖 **AI Intern** — 1  
+### 🤖 **AI Intern** — Splashgain Technology Solutions  
 📅 **Sep 2025 – Present** | 🌍 **Remote**
 
 - 🧩 Developing **Generative AI & LLM-based applications**
