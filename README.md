@@ -95,7 +95,7 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 ## 🧠 How It Works
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=700&color=00FFD5&center=true&vCenter=true&width=900&lines=Input+Face+Images;Preprocessing+Stage;PCA+%7C+Eigenfaces;ANN+SVM+KNN+Classification;Final+Prediction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=00FFD5&center=true&vCenter=true&width=900&lines=Input+Face+Images;Preprocessing+Stage;PCA+%7C+Eigenfaces;ANN+SVM+KNN+Classification;Final+Prediction" />
 </p>
 
 ```text
@@ -115,7 +115,7 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 <h2 align="center">💻</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Technology+Used+For+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Technology+Used+For+Development" />
 </p>
 
 <p align="center">
@@ -216,7 +216,7 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 <h2 align="center">⚙️</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Tech+Stack+and+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Tech+Stack+and+Development" />
 </p>
 
 
