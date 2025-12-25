@@ -251,12 +251,13 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=LinkedIn+Activity;Sharing+AI,+ML+and+Tech+Insights;Connecting+with+Professionals+Worldwide" />
 </p>
 
+
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashribad%20Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asis027)
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css,nodejs,react,sql,mongodb&perline=5" />
 </p>
 
+<p align="center">
+  🌊 <b>Floating Through Code • Building Intelligent Systems</b> 🌊
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:000000&height=140&section=footer"/>
