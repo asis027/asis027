@@ -59,16 +59,102 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 Production-Ready Face Recognition System  
-**Python | OpenCV | PCA | ANN | scikit-learn**
+# 🧠 Face Recognition System using PCA & ANN
 
-- Reduced **10,000+ features → 150 principal components** using PCA  
-- Achieved **92% recognition accuracy**
-- Modular, production-grade architecture with YAML configs  
-- Optimized training performance by **40%**
-- Includes documentation, tests & reproducible setup  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E6FF&center=true&vCenter=true&width=900&lines=Face+Recognition+with+PCA+%26+ANN;Machine+Learning+%7C+Computer+Vision;Python+%7C+OpenCV+%7C+scikit-learn" />
+</p>
 
-🔗 Repo: https://github.com/asis027/face-recognition-pca-ann
+<p align="center">
+  <img src="https://img.shields.io/github/stars/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
+</p>
+
+---
+
+## 🎯 Project Overview
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
+</p>
+
+This project implements a **classical face recognition system** using  
+**Principal Component Analysis (PCA)** for feature extraction and  
+**Artificial Neural Networks (ANN)** for classification.
+
+Instead of deep learning, the project focuses on **efficient, explainable, and lightweight machine learning techniques**, making it ideal for **academic, portfolio, and research-based applications**.
+
+---
+
+## 🧠 How It Works
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="650"/>
+</p>
+
+**Pipeline Flow:**
+1️⃣ Input face images  
+2️⃣ Preprocessing (grayscale, resize, normalization)  
+3️⃣ PCA → Eigenfaces (dimensionality reduction)  
+4️⃣ Classifier (ANN / SVM / KNN)  
+5️⃣ Identity prediction or unknown face detection  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,sklearn,numpy,matplotlib,git,github&theme=dark" />
+</p>
+
+- **Python**
+- **OpenCV**
+- **scikit-learn**
+- **NumPy & Matplotlib**
+
+---
+
+## ✨ Key Features
+
+✔ PCA-based feature extraction (Eigenfaces)  
+✔ ANN classifier with optional SVM & KNN  
+✔ Confidence-based unknown face detection  
+✔ Modular and clean Python architecture  
+✔ Eigenface & result visualization  
+✔ Easy to extend with new datasets  
+
+---
+
+## 📊 Project Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asis027&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Why This Project?
+
+- Demonstrates **Machine Learning fundamentals**
+- Strong focus on **feature engineering**
+- Avoids black-box deep learning
+- Clean, readable, and reusable code
+- Ideal for **students, interns, and ML beginners**
+
+---
+
+## 🔗 Repository Link
+
+<p align="center">
+  <a href="https://github.com/asis027/face-recognition-pca-ann-project">
+    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 ---
 
