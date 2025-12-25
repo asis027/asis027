@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:72px; font-weight:900;">Ashribad Behera</span><br/>
+  <span style="font-size:72px; font-weight:900;"></span><br/>
   <span style="font-size:36px; font-weight:600;">
     Welcome to my GitHub profile
   </span>
