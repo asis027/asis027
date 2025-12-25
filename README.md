@@ -182,7 +182,11 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 
 ---
 
-## 🏅 Certifications & Learning
+<h2 align="center">🏅</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=Certifications+and+Learning" />
+</p>
 
 <p align="left">
   <a href="https://aws.amazon.com/education/awseducate/" target="_blank">
