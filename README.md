@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Hi,+I+am+Ashribad+Behera;Welcome+to+my+GitHub+profile!" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=100&pause=2800&color=FFFFFF&center=true&vCenter=true&width=2000&lines=Hi,+I+am+Ashribad+Behera;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1400&lines=Hi,+I+am+Ashribad+Behera;Welcome+to+my+GitHub+profile" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer;JavaScript+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+AI+Solutions;Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing Animation" />
@@ -25,7 +21,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Computer+Vision+and+Data+Science+Enthusiast;Turning+Ideas+into+Scalable+AI+Solutions;Open+for+Learning+and+Opportunities" />
 </p>
-
+---
 <p align="center">
 ### 🎓 **B.Tech in Computer Science Engineering (2024–2028)**  
 **Biju Patnaik University of Technology, Odisha**
