@@ -120,7 +120,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-of-code.gif" width="600"/>
 </p>
----
 
 ### 🧠 AI / ML Development
 <p align="left">
