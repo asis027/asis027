@@ -33,18 +33,18 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me ❄️⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FFD5&center=true&vCenter=true&width=850&lines=B.Tech+Computer+Science+Student+(2024–2028);AI+%26+Machine+Learning+Intern;Building+Real-World+AI+Systems;Curious+Mind+%7C+Problem+Solver+%7C+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Cyber+Mindset+%7C+Neon+Skills;Always+Curious.+Always+Building.;Turning+Ideas+into+Intelligent+Systems" />
 </p>
 
-
+```text
 🎓 B.Tech in Computer Science Engineering (2024–2028)
-   Biju Patnaik University of Technology, Odisha
+   Biju Patnaik University of Technology (BPUT), Odisha
 
 🤖 AI & Machine Learning Intern
-   Working on practical ML pipelines and real-world AI projects
+   Hands-on experience with real-world ML pipelines and projects
 
 🧠 Strong foundation in:
    • Data Structures & Algorithms
@@ -53,13 +53,14 @@
    • Statistics & Mathematics
 
 🔍 Passionate about:
-   • Solving real-world problems with AI
-   • Building efficient and explainable ML systems
+   • Building explainable & efficient AI systems
+   • Solving real-world problems using ML
 
 🤝 Open to:
    • Internships
    • Freelance opportunities
    • Open-source collaboration
+```
 
 ---
 
