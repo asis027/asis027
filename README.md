@@ -112,10 +112,10 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 ---
 
 
-<h2 align="center">⚙️</h2>
+<h2 align="center">💻</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Tech+Stack+and+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Technology+Used+For+Development" />
 </p>
 
 <p align="center">
@@ -212,6 +212,8 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   </a>
   <img src="https://img.shields.io/badge/Business%20Analysis-Fundamentals-green?style=for-the-badge"/>
 </p>
+
+<h2 align="center">⚙️</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Tech+Stack+and+Development" />
