@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Wave">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Wave">
   Hi, I'm <strong style="background:linear-gradient(90deg, #4A00E0, #8E2DE2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</strong>
 </p>
 
@@ -252,7 +252,7 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asis027&theme=tokyo-night&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
 </p>
 
 
