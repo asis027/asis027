@@ -1,15 +1,17 @@
 <h1 align="center">
-  Hi 👋, I'm <b>Ashr​​ibad Behera</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  Ashr​​ibad Behera
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=AI+%26+GenAI+Engineer;Aspiring+Full-Stack+AI+Developer;Python+%7C+Machine+Learning+%7C+JavaScript;Building+Smart+%26+Scalable+AI+Systems;Turning+Ideas+Into+Intelligent+Products" />
-</p>
-
-<p align="center">
-  📍 <b>Bhubaneswar, Odisha, India</b>
-</p>
-
+<div align="center">
+  
+  ```diff
+  + AI & GenAI Engineer
+  ! Aspiring Full-Stack AI Developer
+  @@ Python | Machine Learning | JavaScript @@
+  # Building Smart & Scalable AI Systems
+  * Turning Ideas Into Intelligent Product
+```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
