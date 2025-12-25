@@ -112,7 +112,11 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 ---
 
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Tech+Stack+and+Development" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Live-blue?style=for-the-badge&logo=python&logoColor=white"/>
