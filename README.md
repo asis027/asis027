@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=44&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Hi,+I+am+Ashribad+Behera;Welcome+to+my+GitHub+profile!" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=100&pause=2800&color=FFFFFF&center=true&vCenter=true&width=2000&lines=Hi,+I+am+Ashribad+Behera;Welcome+to+my+GitHub+profile!" />
 </p>
 <p align="center">
@@ -23,9 +27,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1300&color=FFFFFF&center=true&vCenter=true&width=1200&lines=%F0%9F%8E%93+B.Tech+in+Computer+Science+Engineering+(2024-2028);Biju+Patnaik+University+of+Technology,+Odisha;%F0%9F%A4%96+AI+and+Machine+Learning+Intern;Working+on+production-level+ML+pipelines+and+intelligent+systems;%F0%9F%A7%A0+Strong+foundation+in+DSA,+Machine+Learning,+Computer+Vision;Statistics+and+Mathematics;%F0%9F%94%8D+Passionate+about+real-world+AI+solutions;Building+scalable+and+explainable+ML+systems;%F0%9F%A4%9D+Open+to+Internships,+Freelance,+and+Open-Source+Collaboration" />
-</p>
-
+### 🎓 **B.Tech in Computer Science Engineering (2024–2028)**  
+**Biju Patnaik University of Technology, Odisha**
+**🤖 AI & Machine Learning Intern focused on production-ready ML systems, with strong foundations in DSA, ML, CV, and Statistics. Passionate about scalable, real-world AI solutions. Open to internships, freelance, and open-source collaboration**
 ---
 <h2 align="center">💼</h2>
 
