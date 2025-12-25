@@ -115,9 +115,8 @@
   <img src="https://img.shields.io/badge/Business%20Analysis-Fundamentals-green?style=for-the-badge"/>
 </p>
 
-## ⚡ Tech Stack & Development
+## ⚙️ Tech Stack & Development
 
-⚙️ Tech Stack
 
 ### 🧠 AI / ML Development
 <p align="left">
@@ -149,27 +148,12 @@
 </p>
 
 
-<h2>🤖 AI & Machine Learning</h2>
-
-- 🔍 Face Recognition using **PCA & ANN**
-- 🧠 Machine Learning & Computer Vision
-- 📊 Data preprocessing & feature extraction
-- ☁️ AWS & Cloud fundamentals
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asis027&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asis027&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asis027&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asis027&theme=onedark&row=1&column=6" />
 </p>
 
 
