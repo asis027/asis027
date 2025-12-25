@@ -3,21 +3,12 @@
   Hi 👋, I'm Ashribad Behera
 </h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+Enthusiast;Aspiring+Full-Stack+AI+Engineer;Python+%7C+ML+%7C+GenAI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer+%7C+Computer+Vision+%7C+Full-Stack+AI+Developer+%7C+Turning+Data+into+Intelligent+Systems" />
 </p>
-<p align="center">
-  <img src="demo.gif" width="650"/>
+💡 <b><span style="color:#FFD700;">Turning data into intelligent, scalable products</span></b> 
 </p>
-
-<!-- Animated Role -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00FFCC&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Full-Stack+AI+Developer;Building+Intelligent+%26+Scalable+Systems" />
-
-<!-- Highlighted Tagline -->
-<p>
-  💡 <b><span style="color:#FFD700;">Turning data into intelligent, scalable products</span></b>
-</p>
-
 <!-- Location Badge -->
 <p>
   📍 <span style="background:#0e75b6;color:white;padding:6px 14px;border-radius:20px;">
@@ -275,10 +266,3 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=E6F7FF&center=true&vCenter=true&width=700&lines=❄️+Always+curious.+Always+building." />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
-</p>
