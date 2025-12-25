@@ -1,7 +1,7 @@
 <p align="center">
 <p align="center">
   <span style="font-size:64px; font-weight:900; line-height:1.2;">
-    Welcome to my GitHub profile
+    Thankyou for Visit my GitHub profile
   </span>
 </p>
 <p align="center">
