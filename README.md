@@ -50,78 +50,74 @@
 ```
 
 ---
-
-## 💼 Experience
+## 💼 Professional Experience
 
 <div align="center">
 
-### 🚀 AI & Machine Learning Journey
-
-<div class="experience-card" style="
-  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%);
-  border-radius: 12px;
-  padding: 25px;
-  margin: 20px 0;
-  border: 1px solid rgba(64, 224, 208, 0.3);
-  box-shadow: 0 0 20px rgba(64, 224, 208, 0.2);
+<div style="
+  background: rgba(10, 10, 10, 0.7);
+  border-radius: 16px;
+  padding: 30px;
+  margin: 25px 0;
+  border: 1px solid rgba(255, 107, 107, 0.2);
+  animation: pulse-glow 4s infinite alternate;
   position: relative;
-  overflow: hidden;
-  animation: glow 3s ease-in-out infinite alternate;
 ">
 
-<svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:rgba(64,224,208,0.1);stop-opacity:1" />
-      <stop offset="100%" style="stop-color:rgba(32,107,203,0.1);stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad1)" />
-</svg>
+<div style="
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg, 
+    #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, 
+    #feca57, #ff9ff3, #48dbfb, #ff6b6b);
+  background-size: 400% 400%;
+  border-radius: 18px;
+  z-index: -1;
+  animation: gradient-shift 8s ease infinite;
+  filter: blur(8px);
+  opacity: 0.4;
+"></div>
 
-#### 🤖 **AI & Machine Learning Intern** — iStudio Technologies
-##### 📅 Sep 2025 – Dec 2025 | Remote
+### 📍 **Current Role**
+#### 🎯 AI Intern — Splashgain Technology Solutions
+**📅 Sep 2025 – Present | Remote**
 
-<div style="padding-left: 20px; border-left: 2px solid #40e0d0;">
-  
-• **Built** end-to-end ML pipelines using Python, scikit-learn & TensorFlow  
-• **Improved** model accuracy by **15–20%** and reduced inference time by **25%**  
-• **Designed** REST APIs for seamless ML model integration  
-• **Collaborated** with cross-functional teams on scalable AI solutions  
+> *Developing innovative Generative AI & LLM-based applications*  
+> *Implementing AI-powered features for web platforms*  
+> *Working with state-of-the-art AI technologies*
 
-</div>
+---
 
-<br>
+### 📍 **Previous Experience**
+#### 🏆 AI & Machine Learning Intern — iStudio Technologies
+**📅 Sep 2025 – Dec 2025 | Remote**
 
-#### 🧠 **AI Intern** — Splashgain Technology Solutions
-##### 📅 Sep 2025 – Present | Remote
-
-<div style="padding-left: 20px; border-left: 2px solid #40e0d0;">
-
-• **Developing** cutting-edge Generative AI & LLM-based applications  
-• **Implementing** AI-powered features for modern web applications  
-• **Exploring** the frontier of artificial intelligence technologies  
-
-</div>
+> **Achievements:**  
+> ✅ Built end-to-end ML pipelines (Python, scikit-learn, TensorFlow)  
+> ✅ Improved model accuracy by **15–20%**  
+> ✅ Reduced inference time by **25%**  
+> ✅ Designed REST APIs for ML integration  
+> ✅ Collaborated on scalable AI solutions
 
 </div>
 </div>
 
 <style>
-@keyframes glow {
-  from {
-    box-shadow: 0 0 20px rgba(64, 224, 208, 0.2),
-                0 0 30px rgba(64, 224, 208, 0.1),
-                0 0 40px rgba(64, 224, 208, 0.05);
-  }
-  to {
-    box-shadow: 0 0 25px rgba(64, 224, 208, 0.3),
-                0 0 35px rgba(64, 224, 208, 0.2),
-                0 0 45px rgba(64, 224, 208, 0.1);
-  }
+@keyframes pulse-glow {
+  0% { box-shadow: 0 0 15px rgba(255, 107, 107, 0.1); }
+  50% { box-shadow: 0 0 25px rgba(255, 107, 107, 0.2); }
+  100% { box-shadow: 0 0 15px rgba(255, 107, 107, 0.1); }
+}
+
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 </style>
-
 ---
 
 ## 🎯 Project Overview
