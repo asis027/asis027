@@ -53,33 +53,74 @@
 
 ## 💼 Experience
 
-### 🔹 AI & Machine Learning Intern — *iStudio Technologies*  
-📅 Sep 2025 – Dec 2025 | Remote  
-- Built **end-to-end ML pipelines** using Python, scikit-learn & TensorFlow  
-- Improved model accuracy by **15–20%** and reduced inference time by **25%**  
-- Designed **REST APIs** for ML model integration  
-- Worked with cross-functional teams on scalable AI solutions  
+<div align="center">
 
-### 🔹 AI Intern — *Splashgain Technology Solutions*  
-📅 Sep 2025 – Present | Remote  
-- Developing **Generative AI & LLM-based applications**  
-- Implementing **AI-powered features** for web applications  
+### 🚀 AI & Machine Learning Journey
 
----
+<div class="experience-card" style="
+  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 20px 0;
+  border: 1px solid rgba(64, 224, 208, 0.3);
+  box-shadow: 0 0 20px rgba(64, 224, 208, 0.2);
+  position: relative;
+  overflow: hidden;
+  animation: glow 3s ease-in-out infinite alternate;
+">
 
-## 🚀 Featured Projects
+<svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:rgba(64,224,208,0.1);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(32,107,203,0.1);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad1)" />
+</svg>
 
-# 🧠 Face Recognition System using PCA & ANN
+#### 🤖 **AI & Machine Learning Intern** — iStudio Technologies
+##### 📅 Sep 2025 – Dec 2025 | Remote
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=00FFD5&center=true&vCenter=true&width=900&lines=Classical+Face+Recognition+System;PCA+%7C+ANN+%7C+Machine+Learning;Computer+Vision+with+Python+%26+OpenCV;Efficient+%7C+Explainable+%7C+Lightweight+ML" />
-</p>
+<div style="padding-left: 20px; border-left: 2px solid #40e0d0;">
+  
+• **Built** end-to-end ML pipelines using Python, scikit-learn & TensorFlow  
+• **Improved** model accuracy by **15–20%** and reduced inference time by **25%**  
+• **Designed** REST APIs for seamless ML model integration  
+• **Collaborated** with cross-functional teams on scalable AI solutions  
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
-</p>
+</div>
+
+<br>
+
+#### 🧠 **AI Intern** — Splashgain Technology Solutions
+##### 📅 Sep 2025 – Present | Remote
+
+<div style="padding-left: 20px; border-left: 2px solid #40e0d0;">
+
+• **Developing** cutting-edge Generative AI & LLM-based applications  
+• **Implementing** AI-powered features for modern web applications  
+• **Exploring** the frontier of artificial intelligence technologies  
+
+</div>
+
+</div>
+</div>
+
+<style>
+@keyframes glow {
+  from {
+    box-shadow: 0 0 20px rgba(64, 224, 208, 0.2),
+                0 0 30px rgba(64, 224, 208, 0.1),
+                0 0 40px rgba(64, 224, 208, 0.05);
+  }
+  to {
+    box-shadow: 0 0 25px rgba(64, 224, 208, 0.3),
+                0 0 35px rgba(64, 224, 208, 0.2),
+                0 0 45px rgba(64, 224, 208, 0.1);
+  }
+}
+</style>
 
 ---
 
