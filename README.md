@@ -1,28 +1,14 @@
 <h1 align="center">
-  Hi 👋, I'm <span <h1 align="center" style="font-weight:800;">
-  Hi 👋, I'm <span style="color:#FFFFFF">Ashribad Behera</span>
+  Hi 👋, I'm <b>Ashr​​ibad Behera</b>
 </h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Montserrat
-    &weight=800
-    &size=28
-    &pause=1100
-    &color=FFFFFF
-    &center=true
-    &vCenter=true
-    &width=1050
-    &lines=AI+%26+GenAI+Engineer;Aspiring+Full-Stack+AI+Developer;Python+%7C+Machine+Learning+%7C+JavaScript;Building+Smart+%26+Scalable+AI+Systems;Turning+Ideas+Into+Intelligent+Products"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=AI+%26+GenAI+Engineer;Aspiring+Full-Stack+AI+Developer;Python+%7C+Machine+Learning+%7C+JavaScript;Building+Smart+%26+Scalable+AI+Systems;Turning+Ideas+Into+Intelligent+Products" />
 </p>
 
-<p align="center" style="color:#FFFFFF; font-weight:600;">
-  📍 Bhubaneswar, Odisha, India
+<p align="center">
+  📍 <b>Bhubaneswar, Odisha, India</b>
 </p>
-
 </div>
 
 <p align="center">
