@@ -174,7 +174,10 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <a href="https://github.com/asis027">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-000000?style=for-the-badge&logo=github"/>
   </a>
-</p>  
+  <a href="mailto:journeywithasis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-journeywithasis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -249,9 +252,8 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asis027" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashr​​ibad%20Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashribad%20Behera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asis027)
 </p>
 
 </p>
