@@ -121,6 +121,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
 
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,opencv,sklearn,aws,git,github&theme=dark" />
+</p>
+
+
 ### 🧠 AI / ML Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=6" />
@@ -149,5 +156,40 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
 </p>
+
+
+<h2>🤖 AI & Machine Learning</h2>
+
+- 🔍 Face Recognition using **PCA & ANN**
+- 🧠 Machine Learning & Computer Vision
+- 📊 Data preprocessing & feature extraction
+- ☁️ AWS & Cloud fundamentals
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asis027&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asis027&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asis027&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asis027&theme=onedark&row=1&column=6" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 
 ⭐ *Always curious. Always building.*
