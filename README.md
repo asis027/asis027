@@ -10,8 +10,6 @@
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Location-Bhubaneswar,%20Odisha-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
-    <img src="https://img.shields.io/badge/Role-AI%20Engineer-orange?style=flat-square&logo=ai&logoColor=white" alt="Role">
-    <img src="https://img.shields.io/badge/Focus-Generative%20AI-purple?style=flat-square&logo=openai&logoColor=white" alt="Focus">
   </p>
 </div>
 
