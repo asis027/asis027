@@ -157,8 +157,6 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 
 ---
 
-### 🌐 Full-Stack AI Application *(In Development)*  
-**React | Node.js | Python | PostgreSQL | AWS**
 
 - AI-powered full-stack web app  
 - Scalable microservices & cloud deployment focus  
