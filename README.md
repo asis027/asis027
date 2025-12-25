@@ -24,7 +24,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Computer+Vision+and+Data+Science+Enthusiast;Turning+Ideas+into+Scalable+AI+Solutions;Open+for+Learning+and+Opportunities" />
 </p>
 <p>
-  🎓 <strong>B.Tech CSE (2024–2028)</strong><br/>
+  
+🎓 <strong>B.Tech CSE (2024–2028)</strong><br/>
   <em>Biju Patnaik University of Technology, Odisha</em>
 </p>
 
@@ -34,6 +35,8 @@ Strong in **DSA • ML • CV • Statistics**
 🚀 **Building scalable**,real-world AI solutions  
 
 🤝 **Open to internships**,freelance & open-source
+
+
 
 <h2 align="center">💼</h2>
 
