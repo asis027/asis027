@@ -36,7 +36,6 @@
   <img src="github-neon.png" width="180"/>
 </p>
 
-## 👨‍💻 About Me
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5AF7&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Computer+Vision+and+Data+Science+Enthusiast;Turning+Ideas+into+Scalable+AI+Solutions;Open+for+Learning+and+Opportunities" />
 </p>
