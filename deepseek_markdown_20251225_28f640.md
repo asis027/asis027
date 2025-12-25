@@ -8,17 +8,7 @@
   🚀 AI & Generative AI Engineer | Full-Stack AI Developer 🚀
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Python+Developer+%7C+Machine+Learning+Engineer+%7C+JavaScript+Enthusiast;Building+Intelligent+Systems+%7C+AI+Solutions+%7C+Web+Applications;Open+Source+Contributor+%7C+Tech+Innovator+%7C+Problem+Solver" alt="Typing Animation" />
-</p>
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Location-Bhubaneswar,%20Odisha-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
-    <img src="https://img.shields.io/badge/Role-AI%20Engineer-orange?style=flat-square&logo=ai&logoColor=white" alt="Role">
-    <img src="https://img.shields.io/badge/Focus-Generative%20AI-purple?style=flat-square&logo=openai&logoColor=white" alt="Focus">
-  </p>
-</div>
 
 <br>
 
