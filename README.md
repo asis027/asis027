@@ -99,21 +99,7 @@
    ↓
 🧠 ANN / SVM / KNN
    ↓
-✅ Identity or ❌ Unknown
-
-
-# 🧠 Face Recognition System using PCA & ANN
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E6FF&center=true&vCenter=true&width=900&lines=Face+Recognition+with+PCA+%26+ANN;Machine+Learning+%7C+Computer+Vision;Python+%7C+OpenCV+%7C+scikit-learn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/asis027/face-recognition-pca-ann-project?style=for-the-badge" />
-</p>
-
+✅ Identity or ❌ Unknon
 ---
 
 ## 🎯 Project Overview
