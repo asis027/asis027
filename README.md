@@ -12,6 +12,9 @@
   ```python
 ```
 <p align="center">
+  📍 <b>Bhubaneswar, Odisha, India</b>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
