@@ -93,12 +93,13 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="650"/>
 </p>
 
-**Pipeline Flow:**
-1️⃣ Input face images  
-2️⃣ Preprocessing (grayscale, resize, normalization)  
-3️⃣ PCA → Eigenfaces (dimensionality reduction)  
-4️⃣ Classifier (ANN / SVM / KNN)  
-5️⃣ Identity prediction or unknown face detection  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=00FFD5&center=true&vCenter=true&width=900&lines=Languages+%26+Tools+in+Action;Python+%7C+OpenCV+%7C+scikit-learn+%7C+NumPy+%7C+Matplotlib+%7C+Git+%7C+GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,sklearn,numpy,matplotlib,git,github&theme=dark&perline=12" />
+</p>
 
 ---
 
