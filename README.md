@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=46&pause=99999&color=FFFFFF&center=true&vCenter=true&width=1600&lines=Welcome+to+my+GitHub+profile" />
-</p>
+  <span style="font-size:88px; font-weight:900; line-height:1.1; text-shadow:0 0 12px rgba(255,255,255,0.6);">
+    Welcome to my GitHub profile
+  </span>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=I+Am+Python+Developer+%7C+Machine+Learning+Engineer;JavaScript+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+AI+Solutions;Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing Animation" />
@@ -235,11 +236,9 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Full-Stack+AI+Builder;Open+Source+Contributor" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asis027&theme=tokyonight" />
 </p>
-
 
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
