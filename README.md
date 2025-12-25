@@ -208,23 +208,27 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 
 
 ### 🧠 AI / ML Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn,numpy,matplotlib&theme=dark" />
 </p>
 
 ### 🌐 Full-Stack Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,javascript&theme=dark" />
 </p>
 
 ### 🗄️ Databases & Backend
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&theme=dark" />
 </p>
 
 ## 📊 GitHub Activity
