@@ -1,8 +1,9 @@
 <p align="center">
-<p align="center">
-  <span style="font-size:64px; font-weight:900; line-height:1.2;">
-    Thankyou for Visit my GitHub profile
+  <span style="font-size:72px; font-weight:900;">Ashribad Behera</span><br/>
+  <span style="font-size:36px; font-weight:600;">
+    Welcome to my GitHub profile
   </span>
+</p>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=I+Am+Python+Developer+%7C+Machine+Learning+Engineer;JavaScript+Enthusiast+%7C+Full-Stack+Developer;Building+Intelligent+Systems+%26+AI+Solutions;Open+Source+Contributor+%7C+Tech+Innovator" alt="Typing Animation" />
