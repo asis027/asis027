@@ -7,24 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=AI+%26+Generative+AI+Engineer;Full-Stack+AI+Developer;Python+|+Machine+Learning+|+JavaScript;Building+Intelligent+Systems;Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
-</p>
-
 <div align="center">
   
   ```python
-  class Developer:
-      def __init__(self):
-          self.name = "Ashr​ibad Behera"
-          self.role = "AI & GenAI Engineer"
-          self.location = "Bhubaneswar, Odisha, India"
-          self.skills = ["Python", "Machine Learning", "Deep Learning", 
-                        "JavaScript", "React", "Node.js", "FastAPI"]
-          self.passion = "Building intelligent solutions"
-      
-      def code(self):
-          return "🚀 Creating something awesome!"
 ```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
