@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Wave" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Wave">
-  Hi, I'm <strong style="background:linear-gradient(180deg, #4A00E0, #8E2DE2);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Ashribad Behera</strong>
+  <span style="font-size:50px; font-weight:800;">
+    Ashribad Behera
+  </span>
 </p>
 
 <p align="center">
@@ -12,8 +16,6 @@
   
   ![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha-4A00E0?style=flat-square&logo=google-maps&logoColor=white)
 </div>
-
-<h1 align="center">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asis027&label=Profile%20Views&color=blueviolet&style=flat-square" />
