@@ -32,19 +32,22 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me ❄️⚡
+<p align="center">
+  <img src="me.png" width="160"/>
+</p>
+## 👨‍💻 About Me
+## About Me (Neon Mode)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FFD5&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Cyber+Mindset+%7C+Neon+Skills;Always+Curious.+Always+Building.;Turning+Ideas+into+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=FF00FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Intern;Computer+Vision+%7C+DSA+%7C+Statistics;Building+Real-World+AI+Systems;Open+to+Internships+%26+Collaboration" />
 </p>
 
 ```text
 🎓 B.Tech in Computer Science Engineering (2024–2028)
-   Biju Patnaik University of Technology (BPUT), Odisha
+   Biju Patnaik University of Technology, Odisha
 
 🤖 AI & Machine Learning Intern
-   Hands-on experience with real-world ML pipelines and projects
+   Working on production-level ML pipelines and intelligent systems
 
 🧠 Strong foundation in:
    • Data Structures & Algorithms
@@ -53,13 +56,14 @@
    • Statistics & Mathematics
 
 🔍 Passionate about:
-   • Building explainable & efficient AI systems
-   • Solving real-world problems using ML
+   • Designing real-world AI solutions
+   • Building scalable and explainable ML systems
 
 🤝 Open to:
    • Internships
    • Freelance opportunities
    • Open-source collaboration
+
 ```
 
 ---
