@@ -76,57 +76,6 @@
 ## 🎯 Project Overview
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="620"/>
-</p>
-
-This project presents a **classical face recognition system** built using  
-**Principal Component Analysis (PCA)** for dimensionality reduction and  
-**Artificial Neural Networks (ANN)** for face classification.
-
-Instead of relying on heavy deep learning models, the system emphasizes  
-⚡ **efficiency**,  
-🧠 **explainability**, and  
-🪶 **lightweight machine learning techniques**,  
-
-making it highly suitable for **academic learning, portfolio demonstration, and research-based experimentation**.
-
----
-
-## 🧠 How It Works
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="620"/>
-</p>
-
-⬆️ This will **100% display correctly** on GitHub.
-
----
-
-## ✅ Why This Happens
-- GitHub README uses **Markdown**
-- Plain text ≠ code
-- Without ``` ``` fences:
-  - emojis
-  - arrows
-  - spacing  
-  break or collapse
----
-
-📷 Input Face Image
-↓
-⚙️ Image Preprocessing
-(Grayscale • Resize • Normalize)
-↓
-📉 PCA Feature Extraction
-(Eigenfaces)
-↓
-🧠 Classification
-(ANN / SVM / KNN)
-↓
-✅ Known Identity | ❌ Unknown Face
-## 🎯 Project Overview
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 </p>
 
@@ -156,13 +105,11 @@ Instead of deep learning, the project focuses on **efficient, explainable, and l
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,sklearn,numpy,matplotlib,git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-Live-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-Active-green?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/scikit--learn-Running-orange?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/GitHub-Tracking-black?style=for-the-badge&logo=github"/>
 </p>
-
-- **Python**
-- **OpenCV**
-- **scikit-learn**
-- **NumPy & Matplotlib**
 
 ---
 
