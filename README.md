@@ -1,11 +1,15 @@
 <div align="center">
-<h1 align="center">
-  Hi 👋, I'm Ashribad Behera
-<p align="center">
+
+<h1>Hi 👋, I'm Ashribad Behera</h1>
+
+<p>
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&color=FFFFFF&center=true&vCenter=true&width=90%25&lines=✔+Text+cycles+like+scrolling;✔+No+overflow+issues;✔+Always+clean+%26+readable"
+    alt="Animated scrolling text"
   />
 </p>
+
+</div>
 <!-- Location Badge -->
 <p>
   📍 <span style="background:#0e75b6;color:white;padding:6px 14px;border-radius:20px;">
